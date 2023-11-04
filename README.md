@@ -1,5 +1,6 @@
 # Transcription-Youtube-Open-AI
 
+# transcript.py
 Ce programme est une application de transcription automatique de vidéos YouTube en utilisant l'API OpenAI. Voici un résumé des principales fonctionnalités :
 
 1. Le programme utilise la bibliothèque PyQt5 pour créer une interface utilisateur graphique.
@@ -14,3 +15,6 @@ Ce programme est une application de transcription automatique de vidéos YouTube
 10. Les valeurs de configuration sont sauvegardées dans un fichier JSON pour une utilisation ultérieure.
 
 En résumé, ce programme permet de transcrire automatiquement des vidéos YouTube en utilisant l'API OpenAI.
+
+# transcript2.py
+Idem mais sans questions à chaque segment.
