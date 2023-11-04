@@ -18,3 +18,36 @@ En résumé, ce programme permet de transcrire automatiquement des vidéos YouTu
 
 # transcript2.py
 Idem mais sans questions à chaque segment.
+
+
+Pour utiliser ce programme, vous devez installer les bibliothèques suivantes:
+
+1. PyQt5: Une bibliothèque pour créer des interfaces graphiques. Pour l'installer, utilisez la commande:
+```
+pip install pyqt5
+```
+2. python-docx: Une bibliothèque pour créer et mettre à jour des documents Microsoft Word (.docx). Pour l'installer, utilisez la commande:
+```
+pip install python-docx
+```
+3. yt_dlp: Une bibliothèque pour télécharger des vidéos et des playlists depuis Youtube et d'autres plateformes vidéo. Pour l'installer, vous pouvez utiliser la commande:
+```
+pip install yt-dlp
+```
+4. openai: Une bibliothèque pour interagir avec l'API de OpenAI. Pour l'installer, utilisez la commande:
+```
+pip install openai
+```
+5. tempfile : C'est une bibliothèque standard en python, vous n'avez donc pas besoin de l'installer.
+
+6. os: C'est aussi une bibliothèque standard en python, vous n'avez pas besoin de l'installer.
+
+7. pydub: Une bibliothèque pour manipuler des fichiers audio. Pour l'installer, utilisez la commande:
+```
+pip install pydub
+```
+Notez que pour que PyDub fonctionne correctement, vous pourriez avoir besoin de FFmpeg. Suivre les instructions d'installation appropriées pour votre système d'exploitation. 
+
+8. sys: C'est aussi une bibliothèque standard en python, vous n'avez pas besoin de l'installer.
+
+N'oubliez pas que si vous installez ces bibliothèques à l'échelle du système, vous pourriez avoir besoin d'ajouter `sudo` au début de chaque commande pip, selon votre système d'exploitation et votre configuration.
