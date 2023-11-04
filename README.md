@@ -48,9 +48,12 @@ pip install pydub
 ```
 Notez que pour que PyDub fonctionne correctement, vous pourriez avoir besoin de FFmpeg. Suivre les instructions d'installation appropriées pour votre système d'exploitation. 
 
-La commande générale pip pour installer toutes ces bibliothèques en une seule commande est : 
-pip install pyqt5 python-docx yt-dlp openai pydub
-
 8. sys: C'est aussi une bibliothèque standard en python, vous n'avez pas besoin de l'installer.
 
 N'oubliez pas que si vous installez ces bibliothèques à l'échelle du système, vous pourriez avoir besoin d'ajouter `sudo` au début de chaque commande pip, selon votre système d'exploitation et votre configuration.
+
+
+La commande générale pip pour installer toutes ces bibliothèques en une seule commande est : 
+```
+pip install pyqt5 python-docx yt-dlp openai pydub
+```
