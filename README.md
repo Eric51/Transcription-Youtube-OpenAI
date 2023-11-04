@@ -20,7 +20,7 @@ En résumé, ce programme permet de transcrire automatiquement des vidéos YouTu
 Idem mais sans questions à chaque segment.
 
 
-Pour utiliser ce programme, vous devez installer les bibliothèques suivantes:
+Pour utiliser ces programmes, vous devez installer les bibliothèques suivantes:
 
 1. PyQt5: Une bibliothèque pour créer des interfaces graphiques. Pour l'installer, utilisez la commande:
 ```
