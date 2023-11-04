@@ -50,7 +50,7 @@ class TranscriptionThread(QThread):
             temp_filename = tempfile.mktemp(".wav")
             segment.export(temp_filename, format="wav")
 
-            openai.api_key = "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"
+            openai.api_key = "sk-"
             with open(temp_filename, "rb") as audio_file:
                 transcript = openai.Audio.transcribe("whisper-1", audio_file)
 
