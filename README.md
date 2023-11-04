@@ -1,6 +1,5 @@
 # Transcription-Youtube-Open-AI
 
-# scriptai.py:
 Ce programme est une application de transcription automatique de vidéos YouTube en utilisant l'API OpenAI. Voici un résumé des principales fonctionnalités :
 
 1. Le programme utilise la bibliothèque PyQt5 pour créer une interface utilisateur graphique.
